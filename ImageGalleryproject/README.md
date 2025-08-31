@@ -36,7 +36,7 @@ This project showcases *frontend development skills* including HTML, CSS, and Ja
 
 You can view the project online using GitHub Pages:  
 
-[View Live Gallery](https://YourUsername.github.io/Task1/image_gallery/)
+[View Live Gallery](https://aishwarya152.github.io/CodeAlpha_tasks/)
 
 ---
 
@@ -48,15 +48,12 @@ You can view the project online using GitHub Pages:
 
 ---
 
-## 👤 Author
- 
-- [GitHub Profile](https://github.com/YourUsername)  
-- [LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
+## 👤 Connect with me 
+-  
+- [LinkedIn Profile](https://www.linkedin.com/in/aishwarya-chinagundi-21a341356)
 
 ---
 
 ## 📝 Notes
 
 - All images are sourced from free-to-use stock websites.  
-- This project demonstrates *frontend development skills* suitable for internships or portfolio showcase.  
-- No backend or database is required for this project.
