@@ -1,6 +1,6 @@
 # 🌟 Image Gallery - Internship Task
 
-![Gallery Front View](screenshot.png)
+![Gallery Front View](https://github.com/AISHWARYA152/CodeAlpha_tasks/blob/0b8d00e5d710e6961030ac56aa9b6566a5f736c7/ImageGalleryproject/Screenshot%202025-08-31%20165356.png)
 
 ## 📝 About the Project
 This project is an *Interactive Image Gallery* created as part of an internship assignment.
