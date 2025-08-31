@@ -39,8 +39,6 @@ This project showcases **frontend development skills** including HTML, CSS, and 
 - **JavaScript** – Image filters, lightbox functionality, and interactivity  
 
 ---   
-## 📄License 
-- This Project is licensed under MIT License.
 
 ## 👤 Connect with me 
 - [LinkedIn Profile](https://www.linkedin.com/in/aishwarya-chinagundi-21a341356)
