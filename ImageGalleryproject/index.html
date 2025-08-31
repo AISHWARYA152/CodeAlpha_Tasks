@@ -1,0 +1,67 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Image Gallery</h1>
+<p class="gallery-desc">Explore our curated collection of stunning visuals. Click on any image to view and explore.</p>
+<hr class="line">
+<div glow-btn class="filter_buttons">
+  <button  class="active" data-filter="all">Show All</button>
+  <button data-filter="nature">Nature</button>
+  <button data-filter="city">City</button>
+  <button data-filter="tech">Tech</button>
+  <button data-filter="food">Food</button>
+  <button data-filter="travel">Travel</button>
+  <button data-filter="animal">Animal</button>
+</div>
+
+<div class="gallery">  
+    <div class="gallery-item nature"> 
+        <img src="https://jooinn.com/images/beauty-of-nature-9.jpg" alt="nature image">
+    </div>
+  <div class="gallery-item food">
+    <img src="https://www.mowglistreetfood.com/wp-content/uploads/2023/01/Landing_image_Desktop.jpg" alt="Food Image">
+  </div>
+  <div class="gallery-item city">
+    <img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?fm=jpg&q=60&w=3000" alt="City Image">
+  </div>
+  <div class="gallery-item tech">
+    <img src="https://www.eschoolnews.com/files/2024/12/k-12-tech-innovation-news.jpeg" alt="Tech Image">
+  </div>  
+    <div class="gallery-item animal">
+    <img src="https://t3.ftcdn.net/jpg/06/09/32/82/360_F_609328243_739hz4jl3ltYzfRB6p1N0KoWCNMfPtHj.jpg " alt="animal Image">
+  </div> 
+  <div class="gallery-item food">
+    <img src="https://t4.ftcdn.net/jpg/03/61/86/91/360_F_361869194_7JGmIOSj2iUNi0AYoVhVyhKvaN6PkOah.jpg" alt="Food Image">
+  </div> 
+    <div class="gallery-item city">
+    <img src="https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2014/01/new-york-city-usa.jpg?ssl=1" alt="city Image">
+  </div> 
+  <div class="gallery-item travel">
+    <img src="https://img.freepik.com/free-photo/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand_335224-1356.jpg" alt="Travel Image">
+  </div>
+  <div class="gallery-item animal">
+    <img src="https://images.unsplash.com/photo-1474511320723-9a56873867b5?fm=jpg&q=60&w=3000" alt="Animal Image">
+  </div> 
+    <div class="gallery-item nature">
+    <img src="https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg" alt="Nature Image">
+  </div>
+</div>
+
+<!-- Lightbox -->
+<div id="lightbox" class="lightbox">
+  <span class="close">&times;</span>
+  <span class="prev">&#10094;</span>
+  <img id="lightbox-img" src="">
+  <span class="next">&#10095;</span>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
