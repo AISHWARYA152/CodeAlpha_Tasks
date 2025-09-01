@@ -5,11 +5,11 @@ It supports all basic **arithmetic operations** and features a clean, interactiv
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
 Here’s how the calculator looks:
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](https://github.com/AISHWARYA152/CodeAlpha_tasks/blob/8782ca78dfc7308cde8fa9d3b558fc146a39ebfe/Calculator/Screenshot%202025-09-01%20015827.png)
 
 > *Make sure to place your screenshot image file (screenshot.png) in the project folder so GitHub displays it correctly.*
 
@@ -25,10 +25,10 @@ Its modern design makes it suitable for *desktop and mobile devices* 📱💻, a
 
 ---
 ## Technologies used 
-- **HTML5** for structure 
-- **CSS3** for styling
-- **Javascript** for functionlity
-- Responsive design for mobile and desktop devices
+ - **HTML5** for structure 
+ - **CSS3** for styling
+ - **Javascript** for functionlity
+ - Responsive design for mobile and desktop devices
 
 ---
 ## ✨ Features
@@ -39,8 +39,7 @@ Its modern design makes it suitable for *desktop and mobile devices* 📱💻, a
 - Real-time input display
 - Keyboard support ⌨ (numbers, operators, Enter for =, C for clear)
 - Modern, mobile-friendly layout 📱
-- Hover and click animations 🎨
-- Responsive and compact design
+- Hover and click animations 🎨 -Responsive and compact design
   
 ---
 
