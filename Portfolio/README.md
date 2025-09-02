@@ -4,7 +4,7 @@ This is my personal **portfolio website** built with **HTML, CSS, and JavaScript
 
 --- 
 ## 📸 Screenshot  
-![Portfolio Screenshot](screenshot.png)  
+![Portfolio Screenshot](https://github.com/AISHWARYA152/CodeAlpha_tasks/blob/d64c950111f6d496bac55bf8c58d4143413d0a4a/Portfolio/Screenshot%202025-09-02%20180341.png)  
 
 --- 
 
