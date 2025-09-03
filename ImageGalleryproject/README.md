@@ -14,7 +14,7 @@ This project showcases **frontend development skills** including HTML, CSS, and 
 
 ---
 ## 🌐 Live Demo  
-🔗 [Click here to view the project](https://aishwarya152.github.io/CodeAlpha_tasks/ImageGalleryproject/)  
+🔗 [Click here to view the project - Image_gallery](https://aishwarya152.github.io/CodeAlpha_tasks/ImageGalleryproject/)  
 
 ---
 ## ✨ Features
