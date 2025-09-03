@@ -13,7 +13,10 @@ The gallery is **fully responsive**, ensuring a great experience on desktops, ta
 This project showcases **frontend development skills** including HTML, CSS, and JavaScript interactivity.
 
 ---
+## 🌐 Live Demo  
+🔗 [Click here to view the project](https://aishwarya152.github.io/CodeAlpha_tasks/ImageGalleryproject/)  
 
+---
 ## ✨ Features
  🎨 **Category Filters**: Filter images by Nature, City, Tech, Food, Trip, and Animal  
  🖼 **Lightbox View**: Click any image to view it in a popup with Next/Previous navigation  
