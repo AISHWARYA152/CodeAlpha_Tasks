@@ -1,4 +1,4 @@
-# 🖩 Modern Calculator
+# 🖩 Modern Calculator - Task2
 
 A **modern, responsive calculator** built using **HTML, CSS, and JavaScript**, inspired by smartphone calculator designs.  
 It supports all basic **arithmetic operations** and features a clean, interactive UI.
