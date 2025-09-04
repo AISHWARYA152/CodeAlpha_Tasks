@@ -19,7 +19,13 @@ The goal of this project is to:
 ✨ Practice and improve my **HTML, CSS, and JavaScript** skills  
 ✨ Deploy a professional website using *GitHub Pages / Netlify* 
 
+--- 
+
+## 🌐 Live Demo  
+🔗 [Click here to view the project - Image_gallery](https://aishwarya152.github.io/CodeAlpha_tasks/Portfolio/)  
+
 ---
+
 ## 📌 Features  
 🖼 Profile photo and About section  
 💼 Projects showcase with details  
