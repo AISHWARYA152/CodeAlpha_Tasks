@@ -22,7 +22,7 @@ The goal of this project is to:
 --- 
 
 ## 🌐 Live Demo  
-🔗 [Click here to view the project - Image_gallery](https://aishwarya152.github.io/CodeAlpha_tasks/Portfolio/)  
+🔗 [Click here to view the project - Portfolio](https://aishwarya152.github.io/CodeAlpha_tasks/Portfolio/)  
 
 ---
 
