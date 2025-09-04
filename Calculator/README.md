@@ -23,7 +23,13 @@ It includes all essential features of a standard calculator, such as addition +,
 The project also incorporates **keyboard support** ⌨, allowing users to perform calculations using their keyboard for a smoother experience.  
 Its modern design makes it suitable for *desktop and mobile devices* 📱💻, and it serves as a great project for beginners learning **HTML, CSS, and JavaScript** 💻✨.
 
+--- 
+
+## 🌐 Live Demo  
+🔗 [Click here to view the project - Calculator](https://aishwarya152.github.io/CodeAlpha_tasks/Calculator/)  
+
 ---
+
 ## Technologies used 
  - **HTML5** for structure 
  - **CSS3** for styling
