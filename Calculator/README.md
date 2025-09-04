@@ -30,7 +30,7 @@ Its modern design makes it suitable for *desktop and mobile devices* 📱💻, a
 
 ---
 
-## Technologies used 
+## 🛠 Technologies used 
  - **HTML5** for structure 
  - **CSS3** for styling
  - **Javascript** for functionlity
