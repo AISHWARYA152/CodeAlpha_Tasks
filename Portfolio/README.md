@@ -42,11 +42,6 @@ The goal of this project is to:
 
 ---
 
-## 🚀 Deployment  
-🔗 Live Demo: [Click Here](https://AISHWARYA152.github.io/Portfolio/)  
-
----
-
 ## 📬 Contact 
 👤 **Aishwarya Chinagundi** 
 
